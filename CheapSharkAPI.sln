@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheapSharkAPI", "CheapSharkAPI.csproj", "{EA0AAD9F-90C0-41E6-96D6-3D896CDCCE93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0AAD9F-90C0-41E6-96D6-3D896CDCCE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0AAD9F-90C0-41E6-96D6-3D896CDCCE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0AAD9F-90C0-41E6-96D6-3D896CDCCE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0AAD9F-90C0-41E6-96D6-3D896CDCCE93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EDDB1C9-5C79-4DC9-80D9-C2298FD82691}
+	EndGlobalSection
+EndGlobal
